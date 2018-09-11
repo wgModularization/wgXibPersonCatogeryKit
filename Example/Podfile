@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'wgXibPersonCatogeryKit_Example' do
+  pod 'wgXibPersonCatogeryKit', :path => '../'
+
+  target 'wgXibPersonCatogeryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
