@@ -1,0 +1,6 @@
+framework module Pods_wgXibPersonCatogeryKit_Tests {
+  umbrella header "Pods-wgXibPersonCatogeryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

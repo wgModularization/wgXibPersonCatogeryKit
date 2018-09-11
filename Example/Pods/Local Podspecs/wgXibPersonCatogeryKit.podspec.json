@@ -1,0 +1,27 @@
+{
+  "name": "wgXibPersonCatogeryKit",
+  "version": "0.1.0",
+  "summary": "A short description of wgXibPersonCatogeryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wgModularization/wgXibPersonCatogeryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanggang1128": "978159546@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wgModularization/wgXibPersonCatogeryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "wgXibPersonCatogeryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
